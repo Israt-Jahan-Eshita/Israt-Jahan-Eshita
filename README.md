@@ -3,7 +3,7 @@
 I’m an **Aspiring Full-Stack Developer** with a solid foundation in **competitive programming** and **algorithmic problem-solving**.  
 
 As a **Computer Science and Engineering undergraduate**, I focus on learning and applying principles of **efficient, scalable software design**.  
-My experience in **competitive programming (mainly in C++)** has honed my problem-solving skills and ability to build optimized solutions using **Data Structures and Algorithms**.  
+My experience in **competitive programming (mainly in C++)** has refined my problem-solving skills and ability to build optimized solutions using **Data Structures and Algorithms**.  
 
 I’m currently exploring more in **full-stack development** and **mobile app development with Flutter**, turning complex ideas into simple, functional applications.  
 
