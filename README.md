@@ -74,6 +74,7 @@ CS undergraduate with a competitive programming background in C++ — applying t
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Antigravity_IDE-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
@@ -121,7 +122,7 @@ CS undergraduate with a competitive programming background in C++ — applying t
 | ASP.NET & Spring Boot | Recently explored |
 | System Design & Architecture | Studying |
 | UI/UX Design | Practising |
-| Flutter & Mobile Development | Explored |
+| Flutter & Mobile Development | Exploring |
 
 ---
 
