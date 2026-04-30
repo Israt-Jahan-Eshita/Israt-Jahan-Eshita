@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Badges row -->
-<a href="www.linkedin.com/in/israt-jahan-1965612a7">
+<a href="https://www.linkedin.com/in/israt-jahan-1965612a7">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -130,7 +130,7 @@ CS undergraduate with a competitive programming background in C++ — applying t
 
 <div align="center">
 
-<a href="www.linkedin.com/in/israt-jahan-1965612a7">
+<a href="https://www.linkedin.com/in/israt-jahan-1965612a7">
   <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
