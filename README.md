@@ -1,8 +1,8 @@
 <div align="center">
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=180&text=Israt%20Jahan%20Eshita&fontAlign=50&fontAlignY=45&fontSize=42&fontColor=00e5ff&desc=Full-Stack%20Developer%20%E2%80%A2%20AI-Assisted%20Systems%20%E2%80%A2%20Competitive%20Programmer&descAlignY=70&descColor=aaaaaa&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=160&text=Israt%20Jahan%20Eshita&fontAlign=50&fontAlignY=45&fontSize=42&fontColor=00b8d4&desc=Full-Stack%20Developer%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20CS%20Undergraduate&descAlignY=70&descColor=888888&descSize=14" width="100%"/>
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=00E5FF&center=true&vCenter=true&width=580&lines=AI+proposes.+Code+decides.;Turning+algorithms+into+products;C%2B%2B+competitive+programmer;Building+full-stack+AI-assisted+applications;Learning+system+design+%26+scalability" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=00E5FF&center=true&vCenter=true&width=580&lines=Turning+algorithms+into+products;C%2B%2B+competitive+programmer;Building+full-stack+web+applications;Learning+system+design+%26+scalability" alt="Typing animation" />
 <br/>
 <!-- Badges row -->
 <a href="https://www.linkedin.com/in/israt-jahan-1965612a7">
@@ -21,13 +21,13 @@
 // Israt Jahan Eshita — Developer Profile
 const profile = {
   degree   : "B.Sc. Computer Science & Engineering (4th year, AUST)",
-  focus    : ["Full-Stack Web", "AI-Assisted Systems", "Competitive Programming", "System Architecture"],
+  focus    : ["Full-Stack Web", "Competitive Programming", "Backend Systems", "System Architecture"],
   currently: "FastAPI + Spring Boot + system design deep dive",
   quote    : "Finding the human story within the complexity of the code."
 };
 ```
  
-CS undergraduate with a competitive programming background in C++ — building full-stack applications where AI models read and explain, and deterministic code makes the decisions.
+CS undergraduate with a competitive programming background in C++ — applying that algorithmic mindset to building scalable web applications.
  
 ---
  
@@ -110,7 +110,7 @@ CS undergraduate with a competitive programming background in C++ — building f
 |:---|:---|
 | Competitive Programming — C++ (Codeforces Specialist, CodeChef 2★) | Active |
 | Full-Stack Web Development | Building |
-| AI-Assisted Systems (rule engines, validators, LLM tooling) | Building |
+| Backend Systems (FastAPI, Spring Boot) | Building |
 | Spring Boot & ASP.NET | Explored |
 | System Design & Architecture | Studying |
 | UI/UX Design | Practising |
